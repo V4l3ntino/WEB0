@@ -1,3 +1,3 @@
 # WEB0
 
-![alt text](https://imgs.search.brave.com/0nD9qJTquRTIwCeYMk85TF4uQ4jh2IY48rF-N_ShHRI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YWVwbmFhLm9yZy9p/bWcvd2ViL2h1ZXZv/c19lZ2dzX2JyaWxs/by5qcGc)
+![alt text](https://imgs.search.brave.com/V-oTMWb_JYw_-fbQydI8N3kTX-dNMrVF5rOlPSDA6oc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90by1ncmF0aXMv/aHVldm9zLW1hcnJv/bmVzXzI4MjktMTM0/NTUuanBnP3NpemU9/NjI2JmV4dD1qcGc)
